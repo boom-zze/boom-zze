@@ -1,6 +1,6 @@
 # Hi there! I'm James Tseng (曾瑞誠) 👋
 
-Senior Image Processing Algorithm Engineer with 4+ years of experience in medical imaging and industrial vision. Specializing in semiconductor AOI system development and deep learning integration.
+Image Processing Algorithm Engineer with 4+ years of experience in medical imaging and industrial vision. Specializing in semiconductor AOI system development and deep learning integration.
 
 ## 🔭 Current Work
 
