@@ -4,15 +4,15 @@ Image Processing Algorithm Engineer with 4+ years of experience in medical imagi
 
 ## 🔭 Current Work
 
-Currently working as an image processing Engineer, focusing on:
-- Developing wafer surface defect detection algorithms
+Currently working as an Image Processing Engineer, focusing on:
+- Developing algorithms for wafer surface defect detection
 - Implementing AI-based visual inspection systems
 - Optimizing image processing performance
 
 ## 💻 Technical Skills
 
 - **Programming**: Python, C++, C#
-- **Deep Learning**: PyTorch, TensorFlow, Keras
+- **Deep Learning Frameworks**: PyTorch, TensorFlow, Keras
 - **Image Processing**: OpenCV, Halcon
 - **Analysis Tools**: MATLAB
 
@@ -22,7 +22,7 @@ Currently working as an image processing Engineer, focusing on:
   - Developed an AI-powered OCT system achieving 84.9% accuracy in real-time cancer grading
   
 - **[Tapered Polymer Fiber Inclinometers](https://ieeexplore.ieee.org/abstract/document/9001199)** (IEEE, 2020)
-  - Designed smart structural monitoring system using polymer fiber sensors
+  - Designed a smart structural monitoring system using polymer fiber sensors
 
 ## 🚀 Recent Projects
 
@@ -34,7 +34,7 @@ Currently working as an image processing Engineer, focusing on:
 2. **OCT-based Lung Cancer Grading System**
    - Built end-to-end image analysis pipeline
    - Integrated t-SNE dimensionality reduction and Grad-CAM visualization
-   - Achieved significant improvement in diagnostic accuracy
+   - A significant improvement in diagnostic accuracy
 
 ## 🌱 Professional Development
 
